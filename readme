@@ -1,0 +1,22 @@
+Abgabe Johannes Schwegler 29071
+
+Es gibt 4 Objekte:
+
+fetchData: enthält zwei Methoden um die API anzusprechen. Dabei wird zwischen Suchanfrage oder Anfrage nach Kategorie unterschieden
+
+jsonToVariable: enthält ebenfalls zwei Methoden für die Kategorie-Json-Datei und die Suche-Json-Datei.
+Hierbei werden die Werte der Json-Datei in Variablen gespeichert, welche dann an die "createPostAndAppendToContainer" übergeben wird. 
+
+eventListeners: enthält alle Methoden, die für die eventListeners zuständig sind. Die Init-Methode aktiviert die eventListeners, damit diese funktionieren.
+
+animations: enthält alle Animationen für die Seite
+
+
+-> durch das Zusammenfügen gleicher Funktionen soll eine bessere Struktur geschaffen werden 
+
+Ich habe versucht möglichst "cleanen" Code zu schreiben. Daher würde ich mich über Verbesserungsvorschläge oder Anmerkungen diesbezüglich freuen. 
+
+Vielen Dank.
+
+Gruß
+Johannes
