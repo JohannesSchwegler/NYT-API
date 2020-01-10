@@ -1,6 +1,7 @@
 # NYT Top Stories Website :newspaper:	
 
 This website displays all the Top Stories from the New York Times API.
+You can have a look at the live version at: https://johannesschwegler.github.io/NYT-API/index.html
 
 ## Usage
 
